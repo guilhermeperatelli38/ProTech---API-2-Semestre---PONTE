@@ -47,13 +47,13 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 
 ## 👥 Equipe
 
-| Integrante | Papel |
+| Papel | Integrante |
 |---|---|
-| Rodrigo Nagy | Membro da equipe |
-| Rafael Costa | Membro da equipe |
-| **Guilherme Peratelli** | Product Owner |
-| Luís Guilherme | Membro da equipe |
-| Ian Fully | Membro da equipe |
+| Product Owner | Rodrigo Nagy |
+| Scrum Master | Rafael Costa |
+| Desenvolvedor | Luís Soares |
+| Desenvolvedor | Guilherme Peratelli |
+| Desenvolvedor | Ian Fully |
 
 ## 📐 Requisitos e Especificações Técnicas
 
