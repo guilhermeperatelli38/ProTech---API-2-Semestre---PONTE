@@ -135,25 +135,7 @@ Etapa 4 · Testar → ensaio de carga, análise de falha, previsto × realizado
 | 23/11/2026 | Etapa 4 | Reunião com cliente + vídeo no YouTube |
 | 03/12/2026 | Feira de Soluções | Apresentação presencial na FATEC |
 
-
-## 📁 Estrutura do Repositório
-
-protech-ponte/
-├── assets/ # Logo e imagens do projeto
-├── docs/
-│ ├── relatorio-conceitual.docx
-│ ├── memorial-de-calculo.pdf
-│ └── desenhos-tecnicos/
-├── fabricacao/
-│ ├── gabaritos/
-│ └── registro-fotografico/
-├── ensaios/
-│ ├── plano-de-ensaios.md
-│ └── resultados/
-├── backlog/
-│ └── sprint-backlog.md
-└── README.md
-
+<br>
 
 ## 📄 Documentação
 
