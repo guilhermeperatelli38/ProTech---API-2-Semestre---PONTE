@@ -36,6 +36,7 @@
 
 ---
 
+<br>
 
 ## 🌉 Sobre o Projeto
 
@@ -43,11 +44,13 @@ Este repositório reúne toda a documentação, cálculos, desenhos técnicos e 
 
 O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, seleção de materiais, fabricação, gestão de projetos e metodologias ágeis no desenvolvimento de uma solução estrutural real, avaliada por desempenho, economia de materiais, qualidade e segurança.
 
+<br>
 
 ## 🎯 Desafio
 
 > Desenvolver o protótipo de uma ponte apoiada entre dois pontos fixos separados por **80 cm de vão livre**, sem apoios intermediários, capaz de suportar uma carga mínima especificada, avaliada pela eficiência estrutural — relação entre a massa da ponte e a carga suportada — além do atendimento aos demais requisitos técnicos e restrições do projeto.
 
+<br>
 
 ## 👥 Equipe
 
@@ -59,6 +62,7 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 | Desenvolvedor | Guilherme Peratelli |
 | Desenvolvedor | Ian Fully |
 
+<br>
 
 ## 📐 Requisitos e Especificações Técnicas
 
@@ -75,6 +79,7 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 | Processo de união | Exclusivamente por colagem |
 | Custo total dos materiais | Até R$ 100,00 |
 
+<br>
 
 ## 🧱 Materiais e Métodos Permitidos
 
@@ -99,6 +104,7 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 
 </details>
 
+<br>
 
 ## 🚫 Restrições do Projeto
 
@@ -107,6 +113,7 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 - Proibido uso de parafusos ou pinos na montagem
 - Proibida a construção como elemento maciço ou predominantemente maciço
 
+<br>
 
 ## 🔄 Metodologia
 
@@ -115,6 +122,7 @@ A equipe adota a metodologia ágil **Scrum** para gestão e organização do pro
 - **5W2H** — planejamento e definição de ações
 - **Análise SWOT** — avaliação de forças, fraquezas, oportunidades e ameaças
 
+<br>
 
 ## 🗂️ Etapas do Projeto
 
@@ -123,6 +131,7 @@ Etapa 2 · Projetar → materiais, testes preliminares, croquis, cálculos
 Etapa 3 · Implementar → desenhos técnicos, memorial de cálculo, fabricação
 Etapa 4 · Testar → ensaio de carga, análise de falha, previsto × realizado
 
+<br>
 
 ## 📅 Cronograma
 
@@ -141,6 +150,7 @@ Etapa 4 · Testar → ensaio de carga, análise de falha, previsto × realizado
 
 Toda a documentação técnica de cada etapa — croquis, desenhos CAD, memorial de cálculo, lista de materiais, orçamento e registros de fabricação e ensaio — é versionada neste repositório, conforme exigido pela disciplina.
 
+<br>
 
 ## 📜 Licença
 
