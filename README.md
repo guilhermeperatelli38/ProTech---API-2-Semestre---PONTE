@@ -11,7 +11,7 @@
 [![Status](https://img.shields.io/badge/status-em%20andamento-2ecc71?style=flat-square)]()
 [![Metodologia](https://img.shields.io/badge/metodologia-Scrum-1F3864?style=flat-square)]()
 [![Curso](https://img.shields.io/badge/curso-Engenharia%20de%20Produ%C3%A7%C3%A3o-C0392B?style=flat-square)]()
-[![Instituição](https://img.shields.io/badge/institui%C3%A7%C3%A3o-FATEC%20São JOsé dos Campos-555555?style=flat-square)]()
+[![Instituição](https://img.shields.io/badge/institui%C3%A7%C3%A3o-FATEC%20SJC-555555?style=flat-square)]()
 
 
 </div>
