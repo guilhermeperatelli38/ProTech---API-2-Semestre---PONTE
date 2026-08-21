@@ -126,10 +126,10 @@ A equipe adota a metodologia ágil **Scrum** para gestão e organização do pro
 
 ## 🗂️ Etapas do Projeto
 
-Etapa 1 · Conceber → pesquisa, requisitos, alternativas, escolha da solução
-Etapa 2 · Projetar → materiais, testes preliminares, croquis, cálculos
-Etapa 3 · Implementar → desenhos técnicos, memorial de cálculo, fabricação
-Etapa 4 · Testar → ensaio de carga, análise de falha, previsto × realizado
+| Etapa 1 | · Conceber → pesquisa, requisitos, alternativas, escolha da solução |
+| Etapa 2 | · Projetar → materiais, testes preliminares, croquis, cálculos |
+| Etapa 3 | · Implementar → desenhos técnicos, memorial de cálculo, fabricação |
+| Etapa 4 | · Testar → ensaio de carga, análise de falha, previsto × realizado |
 
 <br>
 
