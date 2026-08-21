@@ -18,6 +18,7 @@
 
 ---
 
+
 ## 📋 Sumário
 
 - [Sobre o Projeto](#-sobre-o-projeto)
@@ -35,15 +36,18 @@
 
 ---
 
+
 ## 🌉 Sobre o Projeto
 
 Este repositório reúne toda a documentação, cálculos, desenhos técnicos e registros de fabricação do protótipo de ponte desenvolvido pela equipe **ProTech**, como parte da disciplina de **Projeto de API (Aprendizado por Projetos Integrados)** — 2º semestre de **Engenharia de Produção**, na **Faculdade de Tecnologia de São José dos Campos (FATEC-SJC)**.
 
 O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, seleção de materiais, fabricação, gestão de projetos e metodologias ágeis no desenvolvimento de uma solução estrutural real, avaliada por desempenho, economia de materiais, qualidade e segurança.
 
+
 ## 🎯 Desafio
 
 > Desenvolver o protótipo de uma ponte apoiada entre dois pontos fixos separados por **80 cm de vão livre**, sem apoios intermediários, capaz de suportar uma carga mínima especificada, avaliada pela eficiência estrutural — relação entre a massa da ponte e a carga suportada — além do atendimento aos demais requisitos técnicos e restrições do projeto.
+
 
 ## 👥 Equipe
 
@@ -54,6 +58,7 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 | Desenvolvedor | Luís Soares |
 | Desenvolvedor | Guilherme Peratelli |
 | Desenvolvedor | Ian Fully |
+
 
 ## 📐 Requisitos e Especificações Técnicas
 
@@ -69,6 +74,7 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 | Carga mínima suportada | 5 kg + suporte de ensaio (~1 kg), por 60 s sem colapso |
 | Processo de união | Exclusivamente por colagem |
 | Custo total dos materiais | Até R$ 100,00 |
+
 
 ## 🧱 Materiais e Métodos Permitidos
 
@@ -93,6 +99,7 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 
 </details>
 
+
 ## 🚫 Restrições do Projeto
 
 - Proibido o uso de barras/perfis/cabos metálicos, concreto, argamassa, peças prontas, impressão 3D, fibra de carbono/vidro industrial, chapas estruturais comerciais, parafusos, pregos, grampos ou rebites
@@ -100,12 +107,14 @@ O objetivo é aplicar, de forma integrada, conceitos de mecânica dos sólidos, 
 - Proibido uso de parafusos ou pinos na montagem
 - Proibida a construção como elemento maciço ou predominantemente maciço
 
+
 ## 🔄 Metodologia
 
 A equipe adota a metodologia ágil **Scrum** para gestão e organização do projeto, com apoio das ferramentas:
 
 - **5W2H** — planejamento e definição de ações
 - **Análise SWOT** — avaliação de forças, fraquezas, oportunidades e ameaças
+
 
 ## 🗂️ Etapas do Projeto
 
@@ -125,6 +134,7 @@ Etapa 4 · Testar → ensaio de carga, análise de falha, previsto × realizado
 | 30/10/2026 | Etapa 3 | Reunião com cliente |
 | 23/11/2026 | Etapa 4 | Reunião com cliente + vídeo no YouTube |
 | 03/12/2026 | Feira de Soluções | Apresentação presencial na FATEC |
+
 
 ## 📁 Estrutura do Repositório
 
@@ -148,6 +158,7 @@ protech-ponte/
 ## 📄 Documentação
 
 Toda a documentação técnica de cada etapa — croquis, desenhos CAD, memorial de cálculo, lista de materiais, orçamento e registros de fabricação e ensaio — é versionada neste repositório, conforme exigido pela disciplina.
+
 
 ## 📜 Licença
 
