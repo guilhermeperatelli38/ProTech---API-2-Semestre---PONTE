@@ -1,7 +1,7 @@
 <div align="center">
 
-<<img width="1254" height="1254" alt="Logo ProTech 2D" src="https://github.com/user-attachments/assets/c4f706cf-b599-48a8-b4a2-8455044d64dd" />
-/>
+<img width="1254" height="1254" alt="Logo ProTech 2D" src="https://github.com/user-attachments/assets/c4f706cf-b599-48a8-b4a2-8455044d64dd" />
+
 
 # ProTech — Integração & Resoluções Empresariais
 ### Projeto, Construção e Testes de Pontes
