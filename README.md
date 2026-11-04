@@ -32,7 +32,6 @@
 - [Cronograma](#-cronograma)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Documentação](#-documentação)
-- [Licença](#-licença)
 
 ---
 
@@ -155,12 +154,3 @@ Toda a documentação técnica de cada etapa — croquis, desenhos CAD, memorial
 
 <br>
 
-## 📜 Licença
-
-Projeto acadêmico desenvolvido para fins educacionais na FATEC São José dos Campos. 
-
----
-
-<div align="center">
-<sub>Desenvolvido pela equipe <strong>ProTech</strong> — Engenharia de Produção, FATEC-SJC</sub>
-</div>
